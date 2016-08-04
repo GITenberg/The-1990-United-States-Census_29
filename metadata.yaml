@@ -1,0 +1,26 @@
+_repo: The-1990-United-States-Census_29
+_version: 0.0.1
+alternative_title: 1990 Census of Population and Housing
+creator:
+  author:
+    agent_name: United States. Bureau of the Census
+    gutenberg_agent_id: '25'
+    url: http://www.gutenberg.org/2009/agents/25
+    wikipedia: http://en.wikipedia.org/wiki/United_States_Census_Bureau
+description: ''
+gutenberg_issued: '1992-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HA'
+- !lcsh 'Housing -- United States -- Statistics'
+- !lcsh 'United States -- Census'
+- !lcsh 'United States -- Population -- Statistics'
+- GITenberg
+title: The 1990 United States Census
+url: http://www.gutenberg.org/ebooks/29
