@@ -5,7 +5,7 @@ language: ruby
 before_install:
 - gem install asciidoctor -v 1.5.2
 - gem install tilt
-- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg@c0f2ff159d3180036938ed2f527c4c58e4a93b90
 - sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
 script:
 - VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
